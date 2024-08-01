@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+h1, h2{
+    color:#2a5346;
+    text-align: center;
+}
+p{
+    padding:20px;
+    line-height: 2;
+}
